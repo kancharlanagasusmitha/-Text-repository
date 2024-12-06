@@ -1,0 +1,8 @@
+This is image encryption project
+we can execute the code by installing some packages
+#packages
+pip install pillow
+pip install cryptodomex
+pip install setuptools
+#passwords
+passwords must be in 16 or 24 or 32 with including all keyboard keys like characters,special symbols
